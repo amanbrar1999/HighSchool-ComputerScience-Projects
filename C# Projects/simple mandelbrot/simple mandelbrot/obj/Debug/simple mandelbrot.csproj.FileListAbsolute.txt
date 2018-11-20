@@ -1,0 +1,9 @@
+c:\users\gurla_000\documents\visual studio 2015\Projects\simple mandelbrot\simple mandelbrot\bin\Debug\simple mandelbrot.exe.config
+c:\users\gurla_000\documents\visual studio 2015\Projects\simple mandelbrot\simple mandelbrot\bin\Debug\simple mandelbrot.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\simple mandelbrot\simple mandelbrot\bin\Debug\simple mandelbrot.pdb
+c:\users\gurla_000\documents\visual studio 2015\Projects\simple mandelbrot\simple mandelbrot\obj\Debug\simple mandelbrot.csprojResolveAssemblyReference.cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\simple mandelbrot\simple mandelbrot\obj\Debug\simple_mandelbrot.Form1.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\simple mandelbrot\simple mandelbrot\obj\Debug\simple_mandelbrot.Properties.Resources.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\simple mandelbrot\simple mandelbrot\obj\Debug\simple mandelbrot.csproj.GenerateResource.Cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\simple mandelbrot\simple mandelbrot\obj\Debug\simple mandelbrot.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\simple mandelbrot\simple mandelbrot\obj\Debug\simple mandelbrot.pdb

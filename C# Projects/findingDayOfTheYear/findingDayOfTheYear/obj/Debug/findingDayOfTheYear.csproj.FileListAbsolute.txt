@@ -1,0 +1,12 @@
+c:\users\gurla_000\documents\visual studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\bin\Debug\findingDayOfTheYear.exe.config
+c:\users\gurla_000\documents\visual studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\bin\Debug\findingDayOfTheYear.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\bin\Debug\findingDayOfTheYear.pdb
+c:\users\gurla_000\documents\visual studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\obj\Debug\findingDayOfTheYear.csprojResolveAssemblyReference.cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\obj\Debug\findingDayOfTheYear.Form1.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\obj\Debug\findingDayOfTheYear.Properties.Resources.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\obj\Debug\findingDayOfTheYear.csproj.GenerateResource.Cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\obj\Debug\findingDayOfTheYear.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\obj\Debug\findingDayOfTheYear.pdb
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\bin\Debug\findingDayOfTheYear.exe.config
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\obj\Debug\findingDayOfTheYear.exe
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\findingDayOfTheYear\findingDayOfTheYear\obj\Debug\findingDayOfTheYear.pdb

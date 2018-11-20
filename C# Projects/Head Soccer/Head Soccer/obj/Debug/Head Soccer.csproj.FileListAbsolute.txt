@@ -1,0 +1,9 @@
+c:\users\gurla_000\documents\visual studio 2015\Projects\Head Soccer\Head Soccer\bin\Debug\Head Soccer.exe.config
+c:\users\gurla_000\documents\visual studio 2015\Projects\Head Soccer\Head Soccer\bin\Debug\Head Soccer.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\Head Soccer\Head Soccer\bin\Debug\Head Soccer.pdb
+c:\users\gurla_000\documents\visual studio 2015\Projects\Head Soccer\Head Soccer\obj\Debug\Head Soccer.csprojResolveAssemblyReference.cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\Head Soccer\Head Soccer\obj\Debug\Head_Soccer.Form1.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\Head Soccer\Head Soccer\obj\Debug\Head_Soccer.Properties.Resources.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\Head Soccer\Head Soccer\obj\Debug\Head Soccer.csproj.GenerateResource.Cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\Head Soccer\Head Soccer\obj\Debug\Head Soccer.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\Head Soccer\Head Soccer\obj\Debug\Head Soccer.pdb

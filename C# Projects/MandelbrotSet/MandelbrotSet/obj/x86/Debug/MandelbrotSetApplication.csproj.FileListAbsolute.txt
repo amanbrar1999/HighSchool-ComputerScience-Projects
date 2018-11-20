@@ -1,0 +1,24 @@
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.MandelbrotSetForm.resources
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.Properties.Resources.resources
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csproj.GenerateResource.Cache
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.exe
+C:\Users\Nick E. Nolfi\documents\visual studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.pdb
+C:\Users\Nick E. Nolfi\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.exe
+G:\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.pdb
+G:\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+G:\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+G:\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.MandelbrotSetForm.resources
+G:\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.Properties.Resources.resources
+G:\Documents\Visual Studio 2010\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csproj.GenerateResource.Cache
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.exe
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSet.pdb
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csprojResolveAssemblyReference.cache
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.MandelbrotSetForm.resources
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.Properties.Resources.resources
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\MandelbrotSet\MandelbrotSet\obj\x86\Debug\MandelbrotSetApplication.csproj.GenerateResource.Cache

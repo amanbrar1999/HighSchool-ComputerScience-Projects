@@ -1,0 +1,16 @@
+c:\users\gurla_000\documents\visual studio 2015\Projects\RandomGame\RandomGame\bin\Debug\RandomGame.exe.config
+c:\users\gurla_000\documents\visual studio 2015\Projects\RandomGame\RandomGame\bin\Debug\RandomGame.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\RandomGame\RandomGame\bin\Debug\RandomGame.pdb
+c:\users\gurla_000\documents\visual studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.csprojResolveAssemblyReference.cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.Properties.Resources.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.csproj.GenerateResource.Cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.pdb
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\RandomGame\RandomGame\bin\Debug\RandomGame.exe.config
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\RandomGame\RandomGame\bin\Debug\RandomGame.exe
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\RandomGame\RandomGame\bin\Debug\RandomGame.pdb
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.csprojResolveAssemblyReference.cache
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.Properties.Resources.resources
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.csproj.GenerateResource.Cache
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.exe
+C:\Users\gurla_000\Documents\Aman\Visual Studio 2015\Projects\RandomGame\RandomGame\obj\Debug\RandomGame.pdb

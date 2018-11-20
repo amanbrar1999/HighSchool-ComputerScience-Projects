@@ -1,0 +1,9 @@
+c:\users\gurla_000\documents\visual studio 2015\Projects\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.Cache
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.pdb

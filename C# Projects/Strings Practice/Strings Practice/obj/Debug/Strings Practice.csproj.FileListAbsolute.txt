@@ -1,0 +1,9 @@
+c:\users\gurla_000\documents\visual studio 2015\Projects\Strings Practice\Strings Practice\bin\Debug\Strings Practice.exe.config
+c:\users\gurla_000\documents\visual studio 2015\Projects\Strings Practice\Strings Practice\bin\Debug\Strings Practice.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\Strings Practice\Strings Practice\bin\Debug\Strings Practice.pdb
+c:\users\gurla_000\documents\visual studio 2015\Projects\Strings Practice\Strings Practice\obj\Debug\Strings Practice.csprojResolveAssemblyReference.cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\Strings Practice\Strings Practice\obj\Debug\Strings_Practice.Form1.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\Strings Practice\Strings Practice\obj\Debug\Strings_Practice.Properties.Resources.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\Strings Practice\Strings Practice\obj\Debug\Strings Practice.csproj.GenerateResource.Cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\Strings Practice\Strings Practice\obj\Debug\Strings Practice.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\Strings Practice\Strings Practice\obj\Debug\Strings Practice.pdb

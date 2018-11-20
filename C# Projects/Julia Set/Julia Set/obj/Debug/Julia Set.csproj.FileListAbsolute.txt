@@ -1,0 +1,9 @@
+c:\users\gurla_000\documents\visual studio 2015\Projects\Julia Set\Julia Set\bin\Debug\Julia Set.exe.config
+c:\users\gurla_000\documents\visual studio 2015\Projects\Julia Set\Julia Set\bin\Debug\Julia Set.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\Julia Set\Julia Set\bin\Debug\Julia Set.pdb
+c:\users\gurla_000\documents\visual studio 2015\Projects\Julia Set\Julia Set\obj\Debug\Julia Set.csprojResolveAssemblyReference.cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\Julia Set\Julia Set\obj\Debug\Julia_Set.Form1.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\Julia Set\Julia Set\obj\Debug\Julia_Set.Properties.Resources.resources
+c:\users\gurla_000\documents\visual studio 2015\Projects\Julia Set\Julia Set\obj\Debug\Julia Set.csproj.GenerateResource.Cache
+c:\users\gurla_000\documents\visual studio 2015\Projects\Julia Set\Julia Set\obj\Debug\Julia Set.exe
+c:\users\gurla_000\documents\visual studio 2015\Projects\Julia Set\Julia Set\obj\Debug\Julia Set.pdb

@@ -1,0 +1,9 @@
+c:\users\gurla_000\documents\visual studio 2015\Projects\Challenging Problem\Challenging Problem\bin\Debug\Challenging Problem.exe.config
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Challenging Problem\Challenging Problem\obj\Debug\Challenging Problem.csprojResolveAssemblyReference.cache
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Challenging Problem\Challenging Problem\obj\Debug\Challenging_Problem.Form1.resources
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Challenging Problem\Challenging Problem\obj\Debug\Challenging_Problem.Properties.Resources.resources
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Challenging Problem\Challenging Problem\obj\Debug\Challenging Problem.csproj.GenerateResource.Cache
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Challenging Problem\Challenging Problem\bin\Debug\Challenging Problem.exe
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Challenging Problem\Challenging Problem\bin\Debug\Challenging Problem.pdb
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Challenging Problem\Challenging Problem\obj\Debug\Challenging Problem.exe
+C:\Users\gurla_000\Documents\Visual Studio 2015\Projects\Challenging Problem\Challenging Problem\obj\Debug\Challenging Problem.pdb
